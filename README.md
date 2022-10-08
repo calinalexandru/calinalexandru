@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS & open source
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on [insert-cool-project-here]
-- 📫 How to reach me calinalexandru1990@gmail.com or pericles.reader@gmail.com
+- 📫 Reach me via: calinalexandru1990@gmail.com or pericles.reader@gmail.com
 
 <!---
 calinalexandru/calinalexandru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
